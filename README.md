@@ -1,6 +1,6 @@
 # MD5
 
-[![build status](https://secure.travis-ci.org/pvorb/node-md5.png)](http://travis-ci.org/pvorb/node-md5) [![info badge](https://img.shields.io/npm/dt/md5.svg)](http://npm-stat.com/charts.html?package=md5)
+[![build status](https://secure.travis-ci.org/pvorb/node-md5.png)](http://travis-ci.org/pvorb/node-md5) [![info badge](https://img.shields.io/npm/dt/md5.svg)](http://npm-stat.com/charts.html?package=md5) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/pvorb--node-md5.svg)](https://www.staging.guardrails.io)
 
 a JavaScript function for hashing messages with MD5.
 
